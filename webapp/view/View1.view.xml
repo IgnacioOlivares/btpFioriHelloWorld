@@ -1,8 +1,7 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sap.btp.helloworldui5.controller.View1" displayBlock="true">
     <Page id="page" title="{i18n>title}">
         <content>
-            <Text xmlns="sap.m" text="Ignacio was here!" id="text2" width="100%"/>
-            <Link xmlns="sap.m" href="https://linkedin.com/in/ignacioolivares/" text="My LinkedIn profile" id="link0"/>
+            <Text xmlns="sap.m" text="Ignacio was here!" id="text2" width="100%"/> 
         </content>
     </Page>
 </mvc:View>
